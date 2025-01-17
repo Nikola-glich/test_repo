@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Commit work yey.");
+
+    return 0;
+
+}
