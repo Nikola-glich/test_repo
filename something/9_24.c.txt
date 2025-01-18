@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("this better work this time");
+    printf("fuck me");
 
     return 0;
 
