@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("this better work this time");
+    printf("this better work this time nuh uh");
 
     return 0;
 
